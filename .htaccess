@@ -1,0 +1,4 @@
+RewriteEngine On
+Options +FollowSymLinks
+Redirect 302 / http://www.fancityapp.com
+

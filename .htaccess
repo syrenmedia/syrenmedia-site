@@ -1,4 +1,4 @@
 RewriteEngine On
 Options +FollowSymLinks
-Redirect 302 / http://www.fancityapp.com
+RewriteRule ^(.*)$ http://www.fancityapp.com/ [R=302,L]
 

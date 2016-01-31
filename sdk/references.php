@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="stylesheet" href="css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"> 
     <link rel="stylesheet" href="css/main.min.css"> 
   </head>
   <body>

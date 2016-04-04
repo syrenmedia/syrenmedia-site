@@ -1,8 +1,8 @@
-RewriteEngine On
-Options +FollowSymLinks
-RewriteCond %{REQUEST_URI} !(favicon.ico)
-RewriteCond %{REQUEST_URI} !(sdk)
-RewriteRule ^(.*)$ http://www.fancityapp.com/ [R=302,L]
+#RewriteEngine On
+#Options +FollowSymLinks
+#RewriteCond %{REQUEST_URI} !(favicon.ico)
+#RewriteCond %{REQUEST_URI} !(sdk)
+#RewriteRule ^(.*)$ https://www.linkedin.com/in/stevenkornblum [R=302,L]
 
 <IfModule mod_deflate.c>
   AddOutputFilterByType DEFLATE text/html

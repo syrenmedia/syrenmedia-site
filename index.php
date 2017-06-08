@@ -1,5 +1,5 @@
 <?php
 
-header('Location: https://www.linkedin.com/in/stevenkornblum');
+header('Location: https://about.me/calleynye');
 exit;
 
